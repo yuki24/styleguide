@@ -1,0 +1,7 @@
+/*******************************
+         Syntax Highlighting
+*******************************/
+
+@CodePadding: 16px;
+@CodeFont: Consolas,"Liberation Mono",Menlo,Courier,monospace;
+@CodeBackgroundColor : #f7f7f7;
