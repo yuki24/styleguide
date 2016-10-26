@@ -1,3 +1,20 @@
 /*******************************
      User Global Variables
 *******************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@fontName          : "kepler-std", Georgia, Times, serif;
+@fontSmoothing     : antialiased;
+@headerFont        : @fontName, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@pageFont          : @fontName, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@importGoogleFonts : false;
+
+/*-------------------
+        Page
+--------------------*/
+
+@lineHeight          : 1.6em;
+@textColor           : rgba(0, 0, 0, 0.8);

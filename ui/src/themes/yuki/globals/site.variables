@@ -1,3 +1,11 @@
 /*******************************
      User Global Variables
 *******************************/
+
+/*-------------------
+      Base Sizes
+--------------------*/
+
+@emSize   : 16px; /* This is the single variable that controls them all */
+@fontSize : 20px; /* The size of page text  */
+
