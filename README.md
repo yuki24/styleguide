@@ -11,7 +11,7 @@ gulp build
 ### Move Assets to Your Rails Project
 ```sh
 export PROJECT_NAME=Today-I-Learned
-cp docs/out/dist/semantic.css ../$PROJECT_NAME/vendor/assets/stylesheets/
+cp docs/out/dist/semantic.css ../$PROJECT_NAME/vendor/assets/stylesheets/semantic.css.erb
 cp docs/out/dist/semantic.js ../$PROJECT_NAME/vendor/assets/stylesheets/
 cp docs/out/dist/themes/default/assets/fonts/* ../$PROJECT_NAME/app/assets/fonts/
 ```
