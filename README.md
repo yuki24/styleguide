@@ -12,7 +12,7 @@ gulp build
 ```sh
 export PROJECT_NAME=Today-I-Learned
 cp docs/out/dist/semantic.css ../$PROJECT_NAME/vendor/assets/stylesheets/
-cp docs/out/dist/semantic.min.js ../$PROJECT_NAME/vendor/assets/stylesheets/
+cp docs/out/dist/semantic.js ../$PROJECT_NAME/vendor/assets/stylesheets/
 cp docs/out/dist/themes/default/assets/fonts/* ../$PROJECT_NAME/app/assets/fonts/
 ```
 
